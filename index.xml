@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pointlander</title>
+    <link>https://pointlander.github.io/</link>
+    <description>Recent content on Pointlander</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Apr 2018 14:12:34 -0600</lastBuildDate>
+    
+	<atom:link href="https://pointlander.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mind Pod</title>
+      <link>https://pointlander.github.io/posts/mind-pod/</link>
+      <pubDate>Sun, 08 Apr 2018 14:12:34 -0600</pubDate>
+      
+      <guid>https://pointlander.github.io/posts/mind-pod/</guid>
+      <description>Mind pod is an iPod that attaches to both your brain and ears. The purpose is to generate music from your brain activity. There are two enabling technologies required for this idea to work. One enabling technology is a wearable brain sensor comparable to an MRI machine: Openwater, and the second enabling technology is a neural network capable of generating music: SampleRNN. Music generated from SampleRNN can be found here. To create music from brain activity all one has to do is record the brain activity from a user listening to some music and then use the recorded brain activity and the corresponding music to train a neural network.</description>
+    </item>
+    
+  </channel>
+</rss>
