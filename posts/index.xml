@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Aug 2018 11:09:31 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 16 Oct 2018 22:13:28 -0600</lastBuildDate>
     
 	<atom:link href="https://pointlander.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Noninvasive Neural Activation (or how to hack the human brain)</title>
+      <link>https://pointlander.github.io/posts/noninvasive-neural-activation/</link>
+      <pubDate>Tue, 16 Oct 2018 22:13:28 -0600</pubDate>
+      
+      <guid>https://pointlander.github.io/posts/noninvasive-neural-activation/</guid>
+      <description>There are noninvasive approaches for reading neural activations from the brain, but a noninvasive method for writing into the brain currently doesn&amp;rsquo;t exist. The value of write capability can be seen from this article. The article describes how neural activity was transferred from better trained rats to rats with less training. Then the rats with less training performed like the better trained rats. The rats had electrodes placed inside their brains, but I think it is possible to do such an experiment on humans without the electrodes.</description>
+    </item>
     
     <item>
       <title>One Free Energy</title>

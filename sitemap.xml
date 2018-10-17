@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pointlander.github.io/posts/noninvasive-neural-activation/</loc>
+    <lastmod>2018-10-16T22:13:28-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pointlander.github.io/posts/one-free-energy/</loc>
     <lastmod>2018-08-25T11:09:31-06:00</lastmod>
   </url>
@@ -29,13 +34,13 @@
   
   <url>
     <loc>https://pointlander.github.io/</loc>
-    <lastmod>2018-08-25T11:09:31-06:00</lastmod>
+    <lastmod>2018-10-16T22:13:28-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pointlander.github.io/posts/</loc>
-    <lastmod>2018-08-25T11:09:31-06:00</lastmod>
+    <lastmod>2018-10-16T22:13:28-06:00</lastmod>
     <priority>0</priority>
   </url>
   
