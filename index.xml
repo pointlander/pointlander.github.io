@@ -6,10 +6,19 @@
     <description>Recent content on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Oct 2018 22:13:28 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 19 Oct 2018 21:29:10 -0600</lastBuildDate>
     
 	<atom:link href="https://pointlander.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CRDTs and Open Source</title>
+      <link>https://pointlander.github.io/posts/crdts-and-open-source/</link>
+      <pubDate>Fri, 19 Oct 2018 21:29:10 -0600</pubDate>
+      
+      <guid>https://pointlander.github.io/posts/crdts-and-open-source/</guid>
+      <description>CRDTs, conflict free replicated data types, are data structures that can be synchronized across an unreliable network with consistency guarantees. Here is a talk on CRTDs from Martin Kleppmann. His group has produced a CRTD library called automerge which gives an application a JSON-like data structure that is replicated across multiple machines. Why is this significant? Open Source currently can&amp;rsquo;t compete with SAAS because users want their data backed up and available on all devices, and unfortunately servers cost money.</description>
+    </item>
     
     <item>
       <title>Noninvasive Neural Activation (or how to hack the human brain)</title>
