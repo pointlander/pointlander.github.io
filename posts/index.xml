@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Oct 2018 21:29:10 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 15 Nov 2018 21:43:27 -0700</lastBuildDate>
     
 	<atom:link href="https://pointlander.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scalable Models</title>
+      <link>https://pointlander.github.io/posts/scalable-models/</link>
+      <pubDate>Thu, 15 Nov 2018 21:43:27 -0700</pubDate>
+      
+      <guid>https://pointlander.github.io/posts/scalable-models/</guid>
+      <description>The author of Gorgonia, a neural network library, had an interesting Strange Loop talk about reimplementing AlphaGo. The problem they ran into is that it would have cost them $70,000 to train a competitive model, so they focused on training their algorithm for games with a smaller board. What if a small neural network could be scaled to work on a larger board? The approach that I propose is based on program synthesis.</description>
+    </item>
     
     <item>
       <title>CRDTs and Open Source</title>
