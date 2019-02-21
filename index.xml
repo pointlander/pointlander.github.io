@@ -6,10 +6,19 @@
     <description>Recent content on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Dec 2018 21:57:11 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Feb 2019 21:52:15 -0700</lastBuildDate>
     
 	<atom:link href="https://pointlander.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artemis Neural Network Scaling</title>
+      <link>https://pointlander.github.io/posts/artemis-neural-network-scaling/</link>
+      <pubDate>Wed, 20 Feb 2019 21:52:15 -0700</pubDate>
+      
+      <guid>https://pointlander.github.io/posts/artemis-neural-network-scaling/</guid>
+      <description>Artemis has a powerful wireless technology called pCell. It appears that pCell might have a high computational cost resulting in scaling issues. They might be able to solve this problem by replacing portions of their algorithm with neural networks. If they have an accurate simulator, they could even replace the entirety of their algorithm with deep reinforcement learning. This could be a good application of analog computer based neural networks.</description>
+    </item>
     
     <item>
       <title>Unify Quantum Mechanics and General Relativity With Computation</title>
