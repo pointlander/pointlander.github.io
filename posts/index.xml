@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2019 22:10:30 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2019 20:36:02 -0600</lastBuildDate>
     
 	<atom:link href="https://pointlander.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Everything as a Quantum Neural Network</title>
+      <link>https://pointlander.github.io/posts/everything-as-a-quantum-neural-network/</link>
+      <pubDate>Thu, 04 Jul 2019 20:36:02 -0600</pubDate>
+      
+      <guid>https://pointlander.github.io/posts/everything-as-a-quantum-neural-network/</guid>
+      <description>I have been reading Penrose&amp;rsquo;s The Emperor&amp;rsquo;s New Mind, and about half way through he points out that quantum systems are linear until they are measured. From a machine learning standpoint this is not good. Linear artificial neural networks are of limited use and can only be used to model the simplest data sets. When a non-linear transform (activation function) is added after each linear layer in a neural network then it is able to solve difficult problems.</description>
+    </item>
     
     <item>
       <title>Synchronicity Network</title>
