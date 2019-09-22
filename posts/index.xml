@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jul 2019 20:36:02 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2019 15:38:05 -0600</lastBuildDate>
     
 	<atom:link href="https://pointlander.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On Cold Fusion and Quantum Mechanics</title>
+      <link>https://pointlander.github.io/posts/on-cold-fusion-and-quantum-mechanics/</link>
+      <pubDate>Sat, 21 Sep 2019 15:38:05 -0600</pubDate>
+      
+      <guid>https://pointlander.github.io/posts/on-cold-fusion-and-quantum-mechanics/</guid>
+      <description>I have been reading Einstein&amp;rsquo;s Unfinished Revolution, The Search for What Lies Beyond the Quantum by Lee Smolin, and the chapter &amp;lsquo;Physical Collapse of the Quantum State&amp;rsquo; caught my attention:
+ One consequence is that energy is no longer precisely conserved. A metal block should slowly heat up as a result of all the collapses the wave functions of its atoms undergo.
+ A similar claim is made in the article Objective-collapse theory.</description>
+    </item>
     
     <item>
       <title>Everything as a Quantum Neural Network</title>
