@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pointlander</title>
@@ -6,10 +6,19 @@
     <description>Recent content on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2020 21:40:40 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 15:25:09 -0600</lastBuildDate>
     
 	<atom:link href="https://pointlander.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quantum Communication</title>
+      <link>https://pointlander.github.io/posts/quantum-communication/</link>
+      <pubDate>Mon, 23 Mar 2020 15:25:09 -0600</pubDate>
+      
+      <guid>https://pointlander.github.io/posts/quantum-communication/</guid>
+      <description>I propose a quantum communication system using quantum computation. In this system there are two pools of qubits: a sender and a receiver. Some of the qubits of the sender are entangled with the qubits of the receiver. Three entanglement configurations are selected: A, B and C; A and B are configurations of the sender, and C is the configuration of the receiver. The overall system has two configurations which result in known qubit states with high probability.</description>
+    </item>
     
     <item>
       <title>Quantum Computing With the Human Brain</title>
