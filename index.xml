@@ -6,10 +6,19 @@
     <description>Recent content on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2020 15:25:09 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2020 22:21:33 -0600</lastBuildDate>
     
 	<atom:link href="https://pointlander.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quantum Mechanical Placebo Effect</title>
+      <link>https://pointlander.github.io/posts/quantum-mechanical-placebo-effect/</link>
+      <pubDate>Mon, 27 Apr 2020 22:21:33 -0600</pubDate>
+      
+      <guid>https://pointlander.github.io/posts/quantum-mechanical-placebo-effect/</guid>
+      <description>There is a theory that the human brain is a quantum computer. I believe this idea is connected to the placebo effect. Chemistry is quantum mechanics and placebos are typically sugar pills. Is it quantum information that causes the effect? Is information on its own sufficient? Can faith heal? If this is the case the government should spend lots money on positive ads. This would be more useful than helicopter money.</description>
+    </item>
     
     <item>
       <title>Quantum Communication</title>
