@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Pointlander  | CRDTs and Open Source</title>
+    <title>Pointlander  | Quantum Genetic Optimization</title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
 
@@ -22,23 +22,26 @@
 
     
 
-    <meta property="og:title" content="CRDTs and Open Source" />
-<meta property="og:description" content="CRDTs, conflict free replicated data types, are data structures that can be synchronized across an unreliable network with consistency guarantees. Here is a talk on CRTDs from Martin Kleppmann. His group has produced a CRTD library called automerge which gives an application a JSON-like data structure that is replicated across multiple machines. Why is this significant? Open Source currently can&rsquo;t compete with SAAS because users want their data backed up and available on all devices, and unfortunately servers cost money." />
+    <meta property="og:title" content="Quantum Genetic Optimization" />
+<meta property="og:description" content="In Quantum Computing with the Human Brain I introduce the idea of quantum genetic optimization:
+ Genetic optimization uses simulated evolution to solve problems. For instance, it could be used to factor numbers. In this case the genome is two numbers: a &amp; b, and the fitness function is |n - (a * b)|. In the case of a quantum implementation the genome would be the quantum computer configuration. The configuration would be evolved until the number is factored." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://pointlander.github.io/posts/crdts-and-open-source/" />
-<meta property="article:published_time" content="2018-10-19T21:29:10-06:00" />
-<meta property="article:modified_time" content="2018-10-19T21:29:10-06:00" />
-<meta itemprop="name" content="CRDTs and Open Source">
-<meta itemprop="description" content="CRDTs, conflict free replicated data types, are data structures that can be synchronized across an unreliable network with consistency guarantees. Here is a talk on CRTDs from Martin Kleppmann. His group has produced a CRTD library called automerge which gives an application a JSON-like data structure that is replicated across multiple machines. Why is this significant? Open Source currently can&rsquo;t compete with SAAS because users want their data backed up and available on all devices, and unfortunately servers cost money.">
-<meta itemprop="datePublished" content="2018-10-19T21:29:10-06:00" />
-<meta itemprop="dateModified" content="2018-10-19T21:29:10-06:00" />
-<meta itemprop="wordCount" content="123">
+<meta property="og:url" content="https://pointlander.github.io/posts/quantum-genetic-optimization/" />
+<meta property="article:published_time" content="2020-05-02T17:30:32-06:00" />
+<meta property="article:modified_time" content="2020-05-02T17:30:32-06:00" />
+<meta itemprop="name" content="Quantum Genetic Optimization">
+<meta itemprop="description" content="In Quantum Computing with the Human Brain I introduce the idea of quantum genetic optimization:
+ Genetic optimization uses simulated evolution to solve problems. For instance, it could be used to factor numbers. In this case the genome is two numbers: a &amp; b, and the fitness function is |n - (a * b)|. In the case of a quantum implementation the genome would be the quantum computer configuration. The configuration would be evolved until the number is factored.">
+<meta itemprop="datePublished" content="2020-05-02T17:30:32-06:00" />
+<meta itemprop="dateModified" content="2020-05-02T17:30:32-06:00" />
+<meta itemprop="wordCount" content="317">
 
 
 
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="CRDTs and Open Source"/>
-<meta name="twitter:description" content="CRDTs, conflict free replicated data types, are data structures that can be synchronized across an unreliable network with consistency guarantees. Here is a talk on CRTDs from Martin Kleppmann. His group has produced a CRTD library called automerge which gives an application a JSON-like data structure that is replicated across multiple machines. Why is this significant? Open Source currently can&rsquo;t compete with SAAS because users want their data backed up and available on all devices, and unfortunately servers cost money."/>
+<meta name="twitter:title" content="Quantum Genetic Optimization"/>
+<meta name="twitter:description" content="In Quantum Computing with the Human Brain I introduce the idea of quantum genetic optimization:
+ Genetic optimization uses simulated evolution to solve problems. For instance, it could be used to factor numbers. In this case the genome is two numbers: a &amp; b, and the fitness function is |n - (a * b)|. In the case of a quantum implementation the genome would be the quantum computer configuration. The configuration would be evolved until the number is factored."/>
 
   </head>
 
@@ -95,11 +98,18 @@
           POSTS
         </p>
         <h1 class="f1">
-          CRDTs and Open Source
+          Quantum Genetic Optimization
         </h1>
       </header>
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
-        <p>CRDTs, <a href="https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type">conflict free replicated data types</a>, are data structures that can be synchronized across an unreliable network with consistency guarantees. <a href="https://www.youtube.com/watch?v=B5NULPSiOGw">Here</a> is a talk on CRTDs from Martin Kleppmann. His group has produced a CRTD library called <a href="https://github.com/automerge/automerge">automerge</a> which gives an application a JSON-like data structure that is replicated across multiple machines. Why is this significant? Open Source currently can&rsquo;t compete with SAAS because users want their data backed up and available on all devices, and unfortunately servers cost money. CRDTs will allow Open Source software to consistently replicate data across multiple machines without a centralized server. With CRDTs Open Source will be competitive with SAAS solutions. As an added bonus, CRDTs give users greater privacy because a centralized server is not needed.</p>
+        <p>In <a href="/posts/quantum-computing-with-the-human-brain">Quantum Computing with the Human Brain</a> I introduce the idea of quantum genetic optimization:</p>
+<blockquote>
+<p>Genetic optimization uses simulated evolution to solve problems. For instance, it could be used to factor numbers. In this case the genome is two numbers: a &amp; b, and the fitness function is |n - (a * b)|. In the case of a quantum implementation the genome would be the quantum computer configuration. The configuration would be evolved until the number is factored. This system searches for a quantum program that factors the number.&rdquo;</p>
+</blockquote>
+<p>To clarify, some qubits of the quantum system would be selected for solution readout. The candidate solution would be read out, and the fitness function would be applied to it. In a fully connected system the particular qubits selected doesn&rsquo;t matter. The number to be factored isn&rsquo;t mapped to qubits in the quantum computer.</p>
+<p>Compressed solutions would allow for a smaller number of qubits to be used for solving an optimization problem. After reading the solution qubits out they would be fed into a decompression algorithm, and then the fitness function would be applied. The search then happens in a compressed space.</p>
+<p>Using compressed solutions a meta search can be efficiently implemented. With meta search the quantum computer generates its own configuration. In a fully connected 4 qubit system there are 6 connections, so there are more connections than qubits. This make using the output of the qubits to configure the system problematic. If the 4 qubits are decompressed, then there might be enough information to configure the connections.</p>
+<p>Using the qubit states in compressed form to configure the entanglements of the quantum computer is perhaps how the universe works as a feedback system. This idea makes me think of the <a href="https://en.wikipedia.org/wiki/Holographic_principle">holographic principle</a>. It should be noted entropy of a black hole ~ r^2 ~ n(n-1)/2 = the number of entries in an adjacency matrix with symmetric connections.</p>
 
       </div>
     </article>
@@ -120,7 +130,7 @@
       
         <li class="list f5 w-100 hover-bg-white nl1">
           
-          <a href="/posts/quantum-genetic-optimization/" class="link ph2 pv2 db black">
+          <a href="/posts/quantum-genetic-optimization/" class="link ph2 pv2 db black o-50">
             Quantum Genetic Optimization
           </a>
         </li>
@@ -197,7 +207,7 @@
       
         <li class="list f5 w-100 hover-bg-white nl1">
           
-          <a href="/posts/crdts-and-open-source/" class="link ph2 pv2 db black o-50">
+          <a href="/posts/crdts-and-open-source/" class="link ph2 pv2 db black">
             CRDTs and Open Source
           </a>
         </li>

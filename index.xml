@@ -6,10 +6,20 @@
     <description>Recent content on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2020 22:21:33 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2020 17:30:32 -0600</lastBuildDate>
     
 	<atom:link href="https://pointlander.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quantum Genetic Optimization</title>
+      <link>https://pointlander.github.io/posts/quantum-genetic-optimization/</link>
+      <pubDate>Sat, 02 May 2020 17:30:32 -0600</pubDate>
+      
+      <guid>https://pointlander.github.io/posts/quantum-genetic-optimization/</guid>
+      <description>In Quantum Computing with the Human Brain I introduce the idea of quantum genetic optimization:
+ Genetic optimization uses simulated evolution to solve problems. For instance, it could be used to factor numbers. In this case the genome is two numbers: a &amp;amp; b, and the fitness function is |n - (a * b)|. In the case of a quantum implementation the genome would be the quantum computer configuration. The configuration would be evolved until the number is factored.</description>
+    </item>
     
     <item>
       <title>Quantum Mechanical Placebo Effect</title>
