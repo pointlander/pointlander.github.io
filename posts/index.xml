@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2020 17:30:32 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 20:47:37 -0600</lastBuildDate>
     
 	<atom:link href="https://pointlander.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Everett Activation Function</title>
+      <link>https://pointlander.github.io/posts/everett-activation-function/</link>
+      <pubDate>Mon, 11 May 2020 20:47:37 -0600</pubDate>
+      
+      <guid>https://pointlander.github.io/posts/everett-activation-function/</guid>
+      <description>The Everett interpretation of quantum mechanics holds that there are infinitely many universes. The universe branches with each measurement. The act of measurement is similar to the activation functions used in neural networks. The output of a neuron could be fed into two activation functions. The ReLU and its complement could be used: max(0, x) and min(0, x). When added together in a neuron: w1 * max(0, x) + w2 * min(0, x) = x (for w1 = w2 = 1) which is the identity function, so gradient descent decides if the Everett activation function is an identity function.</description>
+    </item>
     
     <item>
       <title>Quantum Genetic Optimization</title>
@@ -17,8 +26,9 @@
       <pubDate>Sat, 02 May 2020 17:30:32 -0600</pubDate>
       
       <guid>https://pointlander.github.io/posts/quantum-genetic-optimization/</guid>
-      <description>In Quantum Computing with the Human Brain I introduce the idea of quantum genetic optimization:
- Genetic optimization uses simulated evolution to solve problems. For instance, it could be used to factor numbers. In this case the genome is two numbers: a &amp;amp; b, and the fitness function is |n - (a * b)|. In the case of a quantum implementation the genome would be the quantum computer configuration. The configuration would be evolved until the number is factored.</description>
+      <description>Update: Simulation available here.
+In Quantum Computing with the Human Brain I introduce the idea of quantum genetic optimization:
+ Genetic optimization uses simulated evolution to solve problems. For instance, it could be used to factor numbers. In this case the genome is two numbers: a &amp;amp; b, and the fitness function is |n - (a * b)|. In the case of a quantum implementation the genome would be the quantum computer configuration.</description>
     </item>
     
     <item>
