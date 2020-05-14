@@ -2,30 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pointlander</title>
-    <link>https://pointlander.github.io/posts/</link>
+    <link>https://blog.snodgrass.xyz/posts/</link>
     <description>Recent content in Posts on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2020 20:47:37 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 13:27:52 -0600</lastBuildDate>
     
-	<atom:link href="https://pointlander.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.snodgrass.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Democratic Capitalism</title>
+      <link>https://blog.snodgrass.xyz/posts/democratic-capitalism/</link>
+      <pubDate>Thu, 14 May 2020 13:27:52 -0600</pubDate>
+      
+      <guid>https://blog.snodgrass.xyz/posts/democratic-capitalism/</guid>
+      <description>The current economy of the world is bifurcated into two parts: a post singularity economy and a pre singularity economy. The post singularity economy is often called &amp;ldquo;tech&amp;rdquo;. The pre singularity economy includes things like housing, medicine, and education. As deflation occurs in the post singularity economy money moves into the pre singularity economy. This is why housing, medicine, and education are getting more expensive as televisions are getting better and cheaper.</description>
+    </item>
+    
+    <item>
       <title>Everett Activation Function</title>
-      <link>https://pointlander.github.io/posts/everett-activation-function/</link>
+      <link>https://blog.snodgrass.xyz/posts/everett-activation-function/</link>
       <pubDate>Mon, 11 May 2020 20:47:37 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/everett-activation-function/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/everett-activation-function/</guid>
       <description>The Everett interpretation of quantum mechanics holds that there are infinitely many universes. The universe branches with each measurement. The act of measurement is similar to the activation functions used in neural networks. The output of a neuron could be fed into two activation functions. The ReLU and its complement could be used: max(0, x) and min(0, x). When added together in a neuron: w1 * max(0, x) + w2 * min(0, x) = x (for w1 = w2 = 1) which is the identity function, so gradient descent decides if the Everett activation function is an identity function.</description>
     </item>
     
     <item>
       <title>Quantum Genetic Optimization</title>
-      <link>https://pointlander.github.io/posts/quantum-genetic-optimization/</link>
+      <link>https://blog.snodgrass.xyz/posts/quantum-genetic-optimization/</link>
       <pubDate>Sat, 02 May 2020 17:30:32 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/quantum-genetic-optimization/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/quantum-genetic-optimization/</guid>
       <description>Update: Simulation available here.
 In Quantum Computing with the Human Brain I introduce the idea of quantum genetic optimization:
  Genetic optimization uses simulated evolution to solve problems. For instance, it could be used to factor numbers. In this case the genome is two numbers: a &amp;amp; b, and the fitness function is |n - (a * b)|. In the case of a quantum implementation the genome would be the quantum computer configuration.</description>
@@ -33,37 +42,37 @@ In Quantum Computing with the Human Brain I introduce the idea of quantum geneti
     
     <item>
       <title>Quantum Mechanical Placebo Effect</title>
-      <link>https://pointlander.github.io/posts/quantum-mechanical-placebo-effect/</link>
+      <link>https://blog.snodgrass.xyz/posts/quantum-mechanical-placebo-effect/</link>
       <pubDate>Mon, 27 Apr 2020 22:21:33 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/quantum-mechanical-placebo-effect/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/quantum-mechanical-placebo-effect/</guid>
       <description>There is a theory that the human brain is a quantum computer. I believe this idea is connected to the placebo effect. Chemistry is quantum mechanics and placebos are typically sugar pills. Is it quantum information that causes the effect? Is information on its own sufficient? Can faith heal? If this is the case the government should spend lots money on positive ads. This would be more useful than helicopter money.</description>
     </item>
     
     <item>
       <title>Quantum Communication</title>
-      <link>https://pointlander.github.io/posts/quantum-communication/</link>
+      <link>https://blog.snodgrass.xyz/posts/quantum-communication/</link>
       <pubDate>Mon, 23 Mar 2020 15:25:09 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/quantum-communication/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/quantum-communication/</guid>
       <description>I propose a quantum communication system using quantum computation. In this system there are two pools of qubits: a sender and a receiver. Some of the qubits of the sender are entangled with the qubits of the receiver. Three entanglement configurations are selected: A, B and C; A and B are configurations of the sender, and C is the configuration of the receiver. The overall system has two configurations which result in known qubit states with high probability.</description>
     </item>
     
     <item>
       <title>Quantum Computing With the Human Brain</title>
-      <link>https://pointlander.github.io/posts/quantum-computing-with-the-human-brain/</link>
+      <link>https://blog.snodgrass.xyz/posts/quantum-computing-with-the-human-brain/</link>
       <pubDate>Wed, 04 Mar 2020 21:40:40 -0700</pubDate>
       
-      <guid>https://pointlander.github.io/posts/quantum-computing-with-the-human-brain/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/quantum-computing-with-the-human-brain/</guid>
       <description>Genetic optimization uses simulated evolution to solve problems. For instance, it could be used to factor numbers. In this case the genome is two numbers: a &amp;amp; b, and the fitness function is |n - (a * b)|. In the case of a quantum implementation the genome would be the quantum computer configuration. The configuration would be evolved until the number is factored. This system searches for a quantum program that factors the number.</description>
     </item>
     
     <item>
       <title>On Cold Fusion and Quantum Mechanics</title>
-      <link>https://pointlander.github.io/posts/on-cold-fusion-and-quantum-mechanics/</link>
+      <link>https://blog.snodgrass.xyz/posts/on-cold-fusion-and-quantum-mechanics/</link>
       <pubDate>Sat, 21 Sep 2019 15:38:05 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/on-cold-fusion-and-quantum-mechanics/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/on-cold-fusion-and-quantum-mechanics/</guid>
       <description>I have been reading Einstein&amp;rsquo;s Unfinished Revolution, The Search for What Lies Beyond the Quantum by Lee Smolin, and the chapter &amp;lsquo;Physical Collapse of the Quantum State&amp;rsquo; caught my attention:
  One consequence is that energy is no longer precisely conserved. A metal block should slowly heat up as a result of all the collapses the wave functions of its atoms undergo.
  A similar claim is made in the article Objective-collapse theory.</description>
@@ -71,110 +80,110 @@ In Quantum Computing with the Human Brain I introduce the idea of quantum geneti
     
     <item>
       <title>Everything as a Quantum Neural Network</title>
-      <link>https://pointlander.github.io/posts/everything-as-a-quantum-neural-network/</link>
+      <link>https://blog.snodgrass.xyz/posts/everything-as-a-quantum-neural-network/</link>
       <pubDate>Thu, 04 Jul 2019 20:36:02 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/everything-as-a-quantum-neural-network/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/everything-as-a-quantum-neural-network/</guid>
       <description>I have been reading Penrose&amp;rsquo;s The Emperor&amp;rsquo;s New Mind, and about half way through he points out that quantum systems are linear until they are measured. From a machine learning standpoint this is not good. Linear artificial neural networks are of limited use and can only be used to model the simplest data sets. When a non-linear transform (activation function) is added after each linear layer in a neural network then it is able to solve difficult problems.</description>
     </item>
     
     <item>
       <title>Synchronicity Network</title>
-      <link>https://pointlander.github.io/posts/synchronicity-network/</link>
+      <link>https://blog.snodgrass.xyz/posts/synchronicity-network/</link>
       <pubDate>Fri, 17 May 2019 22:10:30 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/synchronicity-network/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/synchronicity-network/</guid>
       <description>Unlike the principal of flight, the principal of consciousness is an unsolved problem. Before airplanes, people tried to build flying machines that emulated birds, but it turned out that replicating the complexity of birds was unnecessary. We still can&amp;rsquo;t build machines that are as complex as a bird.
 Synchronicity is a concept which holds that events are &amp;ldquo;meaningful coincidences&amp;rdquo; if they occur with no causal relationship yet seem to be meaningfully related.</description>
     </item>
     
     <item>
       <title>Sync</title>
-      <link>https://pointlander.github.io/posts/sync/</link>
+      <link>https://blog.snodgrass.xyz/posts/sync/</link>
       <pubDate>Sun, 14 Apr 2019 16:54:32 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/sync/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/sync/</guid>
       <description>Sync is the mathematics of how independent systems can synchronize their state. (Hacker News discussion) When multiple metronomes are placed on the same table they sync up their ticking over time, but if more metronomes are placed on the table they don&amp;rsquo;t necessarily sync up. The additional metronomes can form their own sync clusters. I think sync can serve as a more general theory of music, explain why there are different types of particles in the universe, and explain high temperature superconductors (and perhaps lead to room temperature superconductors).</description>
     </item>
     
     <item>
       <title>Artemis Neural Network Scaling</title>
-      <link>https://pointlander.github.io/posts/artemis-neural-network-scaling/</link>
+      <link>https://blog.snodgrass.xyz/posts/artemis-neural-network-scaling/</link>
       <pubDate>Wed, 20 Feb 2019 21:52:15 -0700</pubDate>
       
-      <guid>https://pointlander.github.io/posts/artemis-neural-network-scaling/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/artemis-neural-network-scaling/</guid>
       <description>Artemis has a powerful wireless technology called pCell. It appears that pCell might have a high computational cost resulting in scaling issues. They might be able to solve this problem by replacing portions of their algorithm with neural networks. If they have an accurate simulator, they could even replace the entirety of their algorithm with deep reinforcement learning. This could be a good application of analog computer based neural networks.</description>
     </item>
     
     <item>
       <title>Unify Quantum Mechanics and General Relativity With Computation</title>
-      <link>https://pointlander.github.io/posts/unify-quantum-mechanics-and-general-relativity-with-computation/</link>
+      <link>https://blog.snodgrass.xyz/posts/unify-quantum-mechanics-and-general-relativity-with-computation/</link>
       <pubDate>Tue, 18 Dec 2018 21:57:11 -0700</pubDate>
       
-      <guid>https://pointlander.github.io/posts/unify-quantum-mechanics-and-general-relativity-with-computation/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/unify-quantum-mechanics-and-general-relativity-with-computation/</guid>
       <description>It is known that quantum mechanics is Turing complete. If the Einstein field equations are Turing complete, then a &amp;ldquo;relativity computer&amp;rdquo; could be built. (It is known that some differential equations are Turing complete.) Unification of quantum mechanics and general relativity is then a matter of converting quantum programs to relativity programs.</description>
     </item>
     
     <item>
       <title>Scalable Models</title>
-      <link>https://pointlander.github.io/posts/scalable-models/</link>
+      <link>https://blog.snodgrass.xyz/posts/scalable-models/</link>
       <pubDate>Thu, 15 Nov 2018 21:43:27 -0700</pubDate>
       
-      <guid>https://pointlander.github.io/posts/scalable-models/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/scalable-models/</guid>
       <description>The author of Gorgonia, a neural network library, had an interesting Strange Loop talk about reimplementing AlphaGo. The problem they ran into is that it would have cost them $70,000 to train a competitive model, so they focused on training their algorithm for games with a smaller board. What if a small neural network could be scaled to work on a larger board? The approach that I propose is based on program synthesis.</description>
     </item>
     
     <item>
       <title>CRDTs and Open Source</title>
-      <link>https://pointlander.github.io/posts/crdts-and-open-source/</link>
+      <link>https://blog.snodgrass.xyz/posts/crdts-and-open-source/</link>
       <pubDate>Fri, 19 Oct 2018 21:29:10 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/crdts-and-open-source/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/crdts-and-open-source/</guid>
       <description>CRDTs, conflict free replicated data types, are data structures that can be synchronized across an unreliable network with consistency guarantees. Here is a talk on CRTDs from Martin Kleppmann. His group has produced a CRTD library called automerge which gives an application a JSON-like data structure that is replicated across multiple machines. Why is this significant? Open Source currently can&amp;rsquo;t compete with SAAS because users want their data backed up and available on all devices, and unfortunately servers cost money.</description>
     </item>
     
     <item>
       <title>Noninvasive Neural Activation (or how to hack the human brain)</title>
-      <link>https://pointlander.github.io/posts/noninvasive-neural-activation/</link>
+      <link>https://blog.snodgrass.xyz/posts/noninvasive-neural-activation/</link>
       <pubDate>Tue, 16 Oct 2018 22:13:28 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/noninvasive-neural-activation/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/noninvasive-neural-activation/</guid>
       <description>There are noninvasive approaches for reading neural activations from the brain, but a noninvasive method for writing into the brain currently doesn&amp;rsquo;t exist. The value of write capability can be seen from this article. The article describes how neural activity was transferred from better trained rats to rats with less training. Then the rats with less training performed like the better trained rats. The rats had electrodes placed inside their brains, but I think it is possible to do such an experiment on humans without the electrodes.</description>
     </item>
     
     <item>
       <title>One Free Energy</title>
-      <link>https://pointlander.github.io/posts/one-free-energy/</link>
+      <link>https://blog.snodgrass.xyz/posts/one-free-energy/</link>
       <pubDate>Sat, 25 Aug 2018 11:09:31 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/one-free-energy/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/one-free-energy/</guid>
       <description>In the paper Mining Energy In An Expanding Universe a source of free energy is described. In an expanding universe free energy can be produced by connecting widely separated bodies with strings. Another way of producing free energy is the Casimir effect. This works by placing two conducting plates parallel to each other. A net force between the plates is then produced. So, there are two known ways of producing free energy.</description>
     </item>
     
     <item>
       <title>Nash Consciousness</title>
-      <link>https://pointlander.github.io/posts/nash-consciousness/</link>
+      <link>https://blog.snodgrass.xyz/posts/nash-consciousness/</link>
       <pubDate>Sat, 18 Aug 2018 21:58:36 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/nash-consciousness/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/nash-consciousness/</guid>
       <description>There is an interesting article on the computer scientist Constantinos Daskalakis. The article talks about his work on Nash equilibrium, machine learning, and neurology. The obvious idea here is that perhaps neuron behavior could be explained by game theory. Each neuron seeks an optimal strategy for playing some game. After all organisms operate through competition. This could mean that consciousness is a Nash equilibrium. In order to create AGI all we need to do is figure out what game neurons are playing.</description>
     </item>
     
     <item>
       <title>Smart Auto Merge</title>
-      <link>https://pointlander.github.io/posts/smart-auto-merge/</link>
+      <link>https://blog.snodgrass.xyz/posts/smart-auto-merge/</link>
       <pubDate>Thu, 12 Apr 2018 22:43:21 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/smart-auto-merge/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/smart-auto-merge/</guid>
       <description>Wikipedia edit wars are a well known tragedy of the commons problem. What is needed is an ownership model similar to Github, but then which version of an article is the correct version? Machine learning could be used to produce one correct article from all of the different article versions. The different article versions would be auto merged together. The Transformer machine learning algorithm could solve the auto merge problem: Generating Wikipedia by Summarizing Long Sequences.</description>
     </item>
     
     <item>
       <title>Mind Pod</title>
-      <link>https://pointlander.github.io/posts/mind-pod/</link>
+      <link>https://blog.snodgrass.xyz/posts/mind-pod/</link>
       <pubDate>Sun, 08 Apr 2018 14:12:34 -0600</pubDate>
       
-      <guid>https://pointlander.github.io/posts/mind-pod/</guid>
+      <guid>https://blog.snodgrass.xyz/posts/mind-pod/</guid>
       <description>Mind pod is an iPod that attaches to both your brain and ears. The purpose is to generate music from your brain activity. There are two enabling technologies required for this idea to work. One enabling technology is a wearable brain sensor comparable to an MRI machine: Openwater, and the second enabling technology is a neural network capable of generating music: SampleRNN. Music generated from SampleRNN can be found here. To create music from brain activity all one has to do is record the brain activity from a user listening to some music and then use the recorded brain activity and the corresponding music to train a neural network.</description>
     </item>
     
