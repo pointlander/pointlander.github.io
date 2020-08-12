@@ -6,10 +6,37 @@
     <description>Recent content in Posts on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2020 20:57:09 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 21:32:38 -0600</lastBuildDate>
     
 	<atom:link href="https://blog.snodgrass.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Generating Fact Based Articles</title>
+      <link>https://blog.snodgrass.xyz/posts/generating-fact-based-articles/</link>
+      <pubDate>Tue, 11 Aug 2020 21:32:38 -0600</pubDate>
+      
+      <guid>https://blog.snodgrass.xyz/posts/generating-fact-based-articles/</guid>
+      <description>Recently there as been much buzz about a natural language machine learning model called GPT-3. OpenAI is going to create an API for this technology. I have signed for access to this API for the purpose of generating news articles. I want to feed facts into the model and see if it generates good news articles. The facts could be stored in a relational and searchable database. The user could query this database, get some facts, and then use the OpenAI API to generate a news article.</description>
+    </item>
+    
+    <item>
+      <title>RIT Time Lapse</title>
+      <link>https://blog.snodgrass.xyz/posts/rit-time-lapse/</link>
+      <pubDate>Tue, 11 Aug 2020 21:31:58 -0600</pubDate>
+      
+      <guid>https://blog.snodgrass.xyz/posts/rit-time-lapse/</guid>
+      <description>One of the first pieces of software that I developed in 2000 was a script that captured images from a web cam and set them as my desktop. I also saved these images to disk. I have turned these images into a time lapse video of RIT which can be found here.</description>
+    </item>
+    
+    <item>
+      <title>RIT SME Robots</title>
+      <link>https://blog.snodgrass.xyz/posts/rit-sme-robots/</link>
+      <pubDate>Tue, 11 Aug 2020 21:31:22 -0600</pubDate>
+      
+      <guid>https://blog.snodgrass.xyz/posts/rit-sme-robots/</guid>
+      <description>While going to school at RIT I was a member of the SME robotics club. I developed software for the two robots we created. This first robot was built in 2000 for the purpose of moving parts around a factory floor. Video of this robot can be found here. We continued building robots, and the next robot we built in 2003 was an outdoors robot in the form of a tank.</description>
+    </item>
     
     <item>
       <title>On the Nature of God</title>
