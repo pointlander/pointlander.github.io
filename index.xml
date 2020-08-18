@@ -6,10 +6,19 @@
     <description>Recent content on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2020 21:32:38 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2020 21:01:41 -0600</lastBuildDate>
     
 	<atom:link href="https://blog.snodgrass.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Atomic Halting</title>
+      <link>https://blog.snodgrass.xyz/posts/atomic-halting/</link>
+      <pubDate>Mon, 17 Aug 2020 21:01:41 -0600</pubDate>
+      
+      <guid>https://blog.snodgrass.xyz/posts/atomic-halting/</guid>
+      <description>The entropy of state changes of a halted program are low. To find the inputs to a program that cause halting a cost function of entropy of state changes could be used. (Apparently quantum computers can solve the halting problem via nextbigfuture.) I believe what holds an atom together is computation. It is a computation that has a high entropy of state changes. An atom could be induced to decay with the right inputs.</description>
+    </item>
     
     <item>
       <title>Generating Fact Based Articles</title>
