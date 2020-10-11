@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2020 23:13:24 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2020 21:39:47 -0600</lastBuildDate>
     
 	<atom:link href="https://blog.snodgrass.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Could Be Casimir Effect</title>
+      <link>https://blog.snodgrass.xyz/posts/could-be-casimir-effect/</link>
+      <pubDate>Sat, 10 Oct 2020 21:39:47 -0600</pubDate>
+      
+      <guid>https://blog.snodgrass.xyz/posts/could-be-casimir-effect/</guid>
+      <description>From nextbigfuture: Circuit Design Claimed to Harvest Tiny But Infinite Power From Brownian Motion. This device is like Maxwell&amp;rsquo;s demon, but Maxwell&amp;rsquo;s demon has been theoretically shown not to generate over unity energy. I think the source of energy is from the Casimir effect. Thermal vibrations bend the graphene slightly, and then the Casimir effect bends the graphene some more. This results in the conductivity of the graphene decreasing which reduces the Casimir force.</description>
+    </item>
     
     <item>
       <title>Asymmetry in Time</title>
