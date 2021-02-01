@@ -6,10 +6,15 @@
     <description>Recent content in Posts on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 21:39:47 -0600</lastBuildDate>
-    
-	<atom:link href="https://blog.snodgrass.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 31 Jan 2021 19:56:47 -0700</lastBuildDate><atom:link href="https://blog.snodgrass.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grapevine</title>
+      <link>https://blog.snodgrass.xyz/posts/grapevine/</link>
+      <pubDate>Sun, 31 Jan 2021 19:56:47 -0700</pubDate>
+      
+      <guid>https://blog.snodgrass.xyz/posts/grapevine/</guid>
+      <description>Grapevine is a distributed protocol for replacing twitter like systems. It is composed of nodes that add a proof of work over a message and nonces from previous nodes, so the proof of works stack up as messages pass through nodes. Messages with a higher total cost have a higher probability of being forwarded to the next node. Individual nodes decide the cost of the proof of work they add to the message.</description>
+    </item>
     
     <item>
       <title>Could Be Casimir Effect</title>
