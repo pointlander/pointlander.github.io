@@ -1,188 +1,117 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://blog.snodgrass.xyz/posts/capitalism-vs-marxism-is-last-century/</loc>
-    <lastmod>2021-04-11T19:36:23-06:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://blog.snodgrass.xyz/</loc>
-    <lastmod>2021-04-11T19:36:23-06:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-24T19:44:37-06:00</lastmod>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/</loc>
+    <lastmod>2021-05-24T19:44:37-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.snodgrass.xyz/posts/three-pathes-to-the-singularity/</loc>
+    <lastmod>2021-05-24T19:44:37-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.snodgrass.xyz/posts/capitalism-vs-marxism-is-last-century/</loc>
     <lastmod>2021-04-11T19:36:23-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/quantum-vacuum-gradients/</loc>
     <lastmod>2021-02-21T22:23:18-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/mach-energy/</loc>
     <lastmod>2021-02-17T19:29:50-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/grapevine/</loc>
     <lastmod>2021-01-31T19:56:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/could-be-casimir-effect/</loc>
     <lastmod>2020-10-10T21:39:47-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/asymmetry-in-time/</loc>
     <lastmod>2020-09-26T23:13:24-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/symmetry-breaking-and-conservation/</loc>
     <lastmod>2020-09-13T19:48:14-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/atomic-computation/</loc>
     <lastmod>2020-08-19T20:00:43-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/atomic-halting/</loc>
     <lastmod>2020-08-17T21:01:41-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/generating-fact-based-articles/</loc>
     <lastmod>2020-08-11T21:32:38-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/rit-time-lapse/</loc>
     <lastmod>2020-08-11T21:31:58-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/rit-sme-robots/</loc>
     <lastmod>2020-08-11T21:31:22-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/on-the-nature-of-god/</loc>
     <lastmod>2020-07-02T20:57:09-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/merging-of-copenhagen-and-everett/</loc>
     <lastmod>2020-05-18T21:28:29-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/democratic-capitalism/</loc>
     <lastmod>2020-05-14T13:27:52-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/everett-activation-function/</loc>
     <lastmod>2020-05-11T20:47:37-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/quantum-genetic-optimization/</loc>
     <lastmod>2020-05-02T17:30:32-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/quantum-mechanical-placebo-effect/</loc>
     <lastmod>2020-04-27T22:21:33-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/quantum-communication/</loc>
     <lastmod>2020-03-23T15:25:09-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/quantum-computing-with-the-human-brain/</loc>
     <lastmod>2020-03-04T21:40:40-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/on-cold-fusion-and-quantum-mechanics/</loc>
     <lastmod>2019-09-21T15:38:05-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/everything-as-a-quantum-neural-network/</loc>
     <lastmod>2019-07-04T20:36:02-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/synchronicity-network/</loc>
     <lastmod>2019-05-17T22:10:30-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/sync/</loc>
     <lastmod>2019-04-14T16:54:32-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/artemis-neural-network-scaling/</loc>
     <lastmod>2019-02-20T21:52:15-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/unify-quantum-mechanics-and-general-relativity-with-computation/</loc>
     <lastmod>2018-12-18T21:57:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/scalable-models/</loc>
     <lastmod>2018-11-15T21:43:27-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/crdts-and-open-source/</loc>
     <lastmod>2018-10-19T21:29:10-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/noninvasive-neural-activation/</loc>
     <lastmod>2018-10-16T22:13:28-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/one-free-energy/</loc>
     <lastmod>2018-08-25T11:09:31-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/nash-consciousness/</loc>
     <lastmod>2018-08-18T21:58:36-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/smart-auto-merge/</loc>
     <lastmod>2018-04-12T22:43:21-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/posts/mind-pod/</loc>
     <lastmod>2018-04-08T14:12:34-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.snodgrass.xyz/tags/</loc>
   </url>
-  
 </urlset>
