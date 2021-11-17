@@ -6,7 +6,16 @@
     <description>Recent content on Pointlander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Nov 2021 17:24:21 -0500</lastBuildDate><atom:link href="https://blog.snodgrass.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 19:33:58 -0600</lastBuildDate><atom:link href="https://blog.snodgrass.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contradiction of Uncertainty Principle</title>
+      <link>https://blog.snodgrass.xyz/posts/contradiction-of-uncertainty-principle/</link>
+      <pubDate>Tue, 16 Nov 2021 19:33:58 -0600</pubDate>
+      
+      <guid>https://blog.snodgrass.xyz/posts/contradiction-of-uncertainty-principle/</guid>
+      <description>The Matrix mechanics interpretation of quantum mechanics defines a commutator: [A,B] = AB - BA with [x, p] = ih. My interpretation of the commutator relation is that particles are contradictions at the Planck scale.</description>
+    </item>
+    
     <item>
       <title>Smoothness and Quantum Gravity</title>
       <link>https://blog.snodgrass.xyz/posts/smoothness-and-quantum-gravity/</link>
