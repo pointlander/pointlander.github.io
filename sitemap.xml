@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.snodgrass.xyz/posts/partial-unification-of-general-relativity-and-quantum-mechanics/</loc>
-    <lastmod>2023-04-01T21:45:22-05:00</lastmod>
+    <loc>https://blog.snodgrass.xyz/posts/chaos-and-order/</loc>
+    <lastmod>2023-07-27T22:09:42-05:00</lastmod>
   </url><url>
     <loc>https://blog.snodgrass.xyz/</loc>
-    <lastmod>2023-04-01T21:45:22-05:00</lastmod>
+    <lastmod>2023-07-27T22:09:42-05:00</lastmod>
   </url><url>
     <loc>https://blog.snodgrass.xyz/posts/</loc>
+    <lastmod>2023-07-27T22:09:42-05:00</lastmod>
+  </url><url>
+    <loc>https://blog.snodgrass.xyz/posts/partial-unification-of-general-relativity-and-quantum-mechanics/</loc>
     <lastmod>2023-04-01T21:45:22-05:00</lastmod>
   </url><url>
     <loc>https://blog.snodgrass.xyz/posts/contradiction-of-uncertainty-principle/</loc>
